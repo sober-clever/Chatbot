@@ -258,5 +258,88 @@ QPushButton {
 
 
 
+#### selector 选择器
+
+常见语法
+
+| Selector            | 示例                        | 说明                                               |
+| ------------------- | --------------------------- | -------------------------------------------------- |
+| Universal Selector  | `*`                         | 星号匹配所有的界面元素                             |
+| Type Selector       | `QPushButton`               | 选择所有 QPushButton 类型 （包括其子类）           |
+| Class Selector      | `.QPushButton`              | 选择所有 QPushButton 类型 ，但是不包括其子类       |
+| ID Selector         | `QPushButton#okButton`      | 选择所有 `对象名为 okButton` 的QPushButton 类型    |
+| Property Selector   | `QPushButton[flat="false"]` | 选择所有 flat 属性值为 false 的 QPushButton 类型。 |
+| Descendant Selector | `QDialog QPushButton`       | 选择所有 QDialog `内部` QPushButton 类型           |
+| Child Selector      | `QDialog > QPushButton`     | 选择所有 QDialog `直接子节点` QPushButton 类型     |
+
+
+
+#### 样式属性
+
+##### 背景
+
+可以指定某些元素的背景色，像这样
+
+```css
+QTextEdit { background-color: yellow }
+```
+
+颜色可以使用红绿蓝数字，像这样
+
+```css
+QTextEdit { background-color: #e7d8d8 }
+```
+
+也可以像这样指定背景图片
+
+```css
+QTextEdit {
+    background-image: url(gg03.png);
+}
+```
+
+##### 边框
+
+可以像这样指定边框 `border:1px solid #1d649c;`
+
+其中
+
+`1px` 是边框宽度
+
+`solid` 是边框线为实线， 也可以是 `dashed`(虚线) 和 `dotted`（点）
+
+比如
+
+```css
+*[myclass=bar2btn]:hover{
+	border:1px solid #1d649c;
+}
+```
+
+边框可以指定为无边框 `border:none`
+
+##### 字体、大小、颜色
+
+可以这样指定元素的 文字字体、大小、颜色
+
+```css
+*{	
+	font-family:微软雅黑;
+	font-size:15px;
+	color: #1d649c;
+}
+```
+
+##### 宽度、高度
+
+可以这样指定元素的 宽度、高度
+
+```css
+QPushButton {	
+	width:50px;
+	height:20px;
+}
+```
+
 
 
