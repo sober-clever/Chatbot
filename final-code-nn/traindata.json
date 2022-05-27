@@ -8,7 +8,8 @@
         "How are you",
         "Is anyone there?",
         "Hello",
-        "Good day"
+        "Good day",
+        "Glad to see you"
       ],
       "responses": [
         "Hey :-)",
@@ -18,18 +19,115 @@
       ]
     },
     {
+      "tag": "chatbotname",
+      "input_sen": [
+        "what is your name?",
+        "who are you?",
+        "what's your name?"
+      ],
+      "responses": [
+        "My name is Alice"
+      ]
+    },
+    {
+      "tag": "food",
+      "input_sen": [
+        "I am hungry",
+        "Do you know something delicious",
+        "I want some food"
+      ],
+      "responses": [
+        "Why not go to the canteen?",
+        "I am hungry,too"
+      ]
+    },
+    {
+      "tag": "sports",
+      "input_sen": [
+        "Do you like running?",
+        "What is your favorite sport?",
+        "Do you like basketball?"
+      ],
+      "responses": [
+        "I like running!"
+      ]
+    },
+    {
+      "tag": "weather",
+      "input_sen": [
+        "What is the weather like?",
+        "How is the weather?"
+      ],
+      "responses": [
+        "It is sunny",
+        "It is cloudy",
+        "It is cool"
+      ]
+    },
+    {
+      "tag": "applaud",
+      "input_sen": [
+        "You are beautiful"
+      ],
+      "responses": [
+        "Thank you"
+      ]
+    },
+    {
+      "tag": "happy",
+      "input_sen": [
+        "Are you happy?"
+      ],
+      "responses": [
+        "I am happy now"
+      ]
+    },
+    {
+      "tag": "sad",
+      "input_sen": [
+        "I am sad"
+      ],
+      "responses": [
+        "What's the matter?"
+      ]
+    },
+    {
+      "tag": "learning",
+      "input_sen": [
+        "I love math",
+        "Study make me happy"
+      ],
+      "responses": [
+        "You are the best!",
+        "You are great"
+      ]
+    },
+    {
+      "tag": "ustc",
+      "input_sen": [
+        "what's the name of your college?",
+        "what is the name of your university?",
+        "which school do you study in?",
+        "USTC",
+        "ustc"
+      ],
+      "responses": [
+        "I am a uster!"
+      ]
+    },
+    {
       "tag": "goodbye",
       "input_sen": [ "Bye", "See you later", "Goodbye" ],
       "responses": [
-        "See you later, thanks for visiting",
-        "Have a nice day",
+        "See you later, thanks for visiting!",
+        "Have a nice day!",
         "Bye! Come back again soon."
       ]
     },
     {
       "tag": "thanks",
       "input_sen": [ "Thanks", "Thank you", "That's helpful", "Thank's a lot!" ],
-      "responses": [ "Happy to help!", "Any time!", "My pleasure" ]
+      "responses": [ "Happy to help!", "Any time!", "My pleasure." ]
     },
     {
       "tag": "items",
@@ -69,7 +167,7 @@
       ]
     },
     {
-      "tag": "funny",
+      "tag": "tell_funny",
       "input_sen": [
         "Tell me a joke!",
         "Tell me something funny!",

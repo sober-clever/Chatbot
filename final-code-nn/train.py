@@ -42,7 +42,7 @@ def trans_to_words(sen):
     # print(word_array)
     for s_word in word_array:
         s_word = s_word.lower()
-        if s_word == ',' or s_word == ';' or s_word == ':':
+        if s_word == ',' or s_word == ';' or s_word == ':' or s_word == '!' or s_word == '?':
             # 无需考虑 ，但是要考虑 .?!
             continue
         if s_word == 'fuck' or s_word == 'bitch' or s_word == 'sb':
@@ -69,7 +69,7 @@ for i in TrainArray['traindata']:
         words.extend(tmp)
         sentence_tag.append((tmp, tag))
 
-words = sorted(set(words))  # 只用一个set就不可以
+words = sorted(set(words))
 
 
 def trans_to_num(sen):
@@ -93,7 +93,7 @@ for (sentence, tag) in sentence_tag:
 train_input = numpy.array(train_input)
 train_output = numpy.array(train_output)
 
-epoch = 10000
+epoch = 4000
 
 
 class ChatDataset(Dataset):
@@ -118,8 +118,8 @@ device = torch.device('cpu')
 chatnn = ChatNN(len(words), 16, len(tags)).to(device)
 # 实例化一个神经网络的对象
 
-criterion = nn.CrossEntropyLoss()
-optimizer = torch.optim.Adam(chatnn.parameters(), lr=0.001)
+criterion = nn.CrossEntropyLoss()       # 交叉熵
+optimizer = torch.optim.Adam(chatnn.parameters(), lr=0.001)     # 优化器
 
 for cnt in range(epoch):
     for (sen_tensor, tag) in chatdataloader:
@@ -138,8 +138,9 @@ for cnt in range(epoch):
         loss.backward()
         optimizer.step()
 
-    if cnt % 100 == 0:
-        print("epoch:", cnt)
+    if (cnt+1) % 100 == 0:
+        print("epoch:", cnt+1)
+
 
 
 data = {
@@ -147,7 +148,7 @@ data = {
     "input_size": len(words),
     "hidden_size": 16,
     "output_size": len(tags),
-    "all_words": words,
+    "words": words,
     "tags": tags
 }
 

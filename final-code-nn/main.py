@@ -16,7 +16,7 @@ data = torch.load(FILE)
 input_size = data["input_size"]
 hidden_size = data["hidden_size"]
 output_size = data["output_size"]
-words = data['all_words']
+words = data['words']
 tags = data['tags']
 model_state = data["model_state"]
 
@@ -59,32 +59,32 @@ def trans_to_num(sen):
     return num_tmp
 
 
-bot_name = "Alice"
-print("Let's chat! (type 'quit' to exit)")
+print("Alice: Hello!")
 
 while True:
-    sentence = input("You: ")
-    if sentence == "quit":
-        break
+    your_sentence = input()
 
-    sentence = nltk.word_tokenize(sentence)
+    sentence = nltk.word_tokenize(your_sentence)
+
     X = trans_to_num(sentence)
     X = X.reshape(1, X.shape[0])
     X = torch.from_numpy(X).to(device)
 
     output = chatnn(X)
-    _, predicted = torch.max(output, dim=1)
+    tmp, index = torch.max(output, dim=1)
+    index = index.item()
 
-    tag = tags[predicted.item()]
+    tag = tags[index]
 
-    probs = torch.softmax(output, dim=1)
+    ProbsVector = torch.softmax(output, dim=1)
     # print(output)
     # print(probs)
     # print(probs[0])
-    prob = probs[0][predicted.item()]
-    if prob.item() > 0.80:
+    prob = ProbsVector[0][index].item() # 先取[0]
+
+    if prob > 0.80:
         for i in TrainArray['traindata']:
             if tag == i["tag"]:
-                print(f"{bot_name}: {random.choice(i['responses'])}")
+                print("Alice: ", random.choice(i['responses']))
     else:
-        print(f"{bot_name}: I do not understand...")
+        print("Alice: I do not understand...")
