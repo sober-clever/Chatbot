@@ -1,0 +1,532 @@
+2022-05-29 10:34:28
+User: Hello
+2022-05-29 10:35:25
+User: Hello
+2022-05-29 10:36:56
+User: Hello
+2022-05-29 10:38:34
+User: Hello
+2022-05-29 10:39:40
+User: Hello
+2022-05-29 10:40:48
+User: Hello
+2022-05-29 10:50:51
+User: Hello
+Robot: E O S
+
+2022-05-29 10:52:28
+User: Hello
+Robot: E O S
+
+2022-05-29 10:53:29
+User: Hello
+Robot: E O S
+
+2022-05-29 10:54:52
+User: Hello
+Robot: I like running!
+
+2022-05-29 10:55:03
+User: Where are you from
+Robot: LiTang
+
+2022-05-29 10:55:09
+User: Tell me a joke
+Robot: What did the buffalo say when his son 
+ left for college? Bison.
+
+2022-05-29 10:55:18
+User: Hello
+Robot: I like running!
+
+2022-05-29 10:55:20
+User: hello
+Robot: Hi there, what can I do for you?
+
+2022-05-29 10:55:59
+User: fuck
+Robot: I like running!
+
+2022-05-29 10:58:28
+User: Hello
+Robot: Hi there, how can I help?
+
+2022-05-29 10:59:08
+User: Where are you from
+Robot: LTC!
+
+2022-05-29 10:59:15
+User: Do you know Diana
+Robot: I am a uster!
+
+2022-05-29 10:59:38
+User: Do you like quantum physics
+Robot: My favorite song is Love Story!
+
+2022-05-29 11:00:30
+User: aaaaa
+2022-05-29 11:01:14
+User: Hello
+Robot: Hi there, what can I do for you?
+
+2022-05-29 11:01:30
+User: hi
+Robot: Hi there, what can I do for you?
+
+2022-05-29 11:01:31
+User: hello
+Robot: Hey :-)
+
+2022-05-29 11:01:37
+User: HHello
+2022-05-29 11:03:44
+User: sss
+2022-05-29 11:05:28
+User: Hello
+Robot: hello .
+
+2022-05-29 11:05:32
+User: Shit
+Robot: i m sorry .
+
+2022-05-29 11:05:37
+User: hhhhhhhh
+2022-05-29 11:08:29
+User: Do you like ustc?
+Robot: I am a uster!
+
+2022-05-29 11:08:37
+User: good
+Robot: haha
+
+2022-05-29 11:08:57
+User: Open typora for me plz
+Robot: Opening for you
+
+2022-05-29 11:09:05
+User: good job
+Robot: Pride and Prejudice
+
+2022-05-29 11:09:14
+User: which book do you like
+Robot: The three body problem
+
+2022-05-29 11:09:42
+User: You're so humorous
+2022-05-29 11:14:17
+User: sss
+2022-05-29 11:15:45
+User: ssssssss
+2022-05-29 11:16:40
+User: ssssssssssss
+2022-05-29 11:22:48
+User: hhhhhhhh
+Robot: Sorry, I don't understand.
+
+2022-05-29 11:22:51
+User: Hello
+Robot: hello .
+
+2022-05-29 11:22:57
+User: Where are you from
+Robot: i m going to bed .
+
+2022-05-29 11:23:09
+User: where are you from
+Robot: i m going to bed .
+
+2022-05-29 11:23:14
+User: ???
+Robot: you re in trouble .
+
+2022-05-29 11:23:20
+User: sssssssssssss
+Robot: Sorry, I don't understand.
+
+2022-05-29 11:24:32
+User: Where're you from
+Robot: i m going to get a glass .
+
+2022-05-29 11:26:24
+User: Where are you from
+Robot: i m going to bed .
+
+2022-05-29 11:26:30
+User: where are you from
+Robot: i m going to bed .
+
+2022-05-29 11:28:00
+User: Where are you from
+Robot: i m going to bed .
+
+2022-05-29 11:28:10
+User: Where're you from
+Robot: i m going to get a glass .
+
+2022-05-29 11:28:17
+User: Who are you
+Robot: i m the fucking old man .
+
+2022-05-29 11:28:32
+User: Are you American
+Robot: no .
+
+2022-05-29 11:28:37
+User: Where are you
+Robot: i m out .
+
+2022-05-29 11:28:43
+User: Who are you
+Robot: i m the fucking old man .
+
+2022-05-29 11:28:51
+User: You are ?
+Robot: yes .
+
+2022-05-29 11:29:03
+User: Are you from America
+Robot: yes .
+
+2022-05-29 11:29:09
+User: Vernon
+Robot: is it all over ?
+
+2022-05-29 11:31:09
+User: Where are you from
+Robot: i m going to bed .
+
+2022-05-29 11:36:40
+User: Hello
+Robot: Nice to meet you
+
+2022-05-29 11:36:47
+User: hhhhhhhhhhh
+Robot: At your service.
+
+2022-05-29 11:37:10
+User: sssssssssssssss
+Robot: At your service.
+
+2022-05-29 11:37:19
+User: Where are ya from
+Robot: In china, I am from China. 
+ In America, I am from America!
+
+2022-05-29 11:37:34
+User: Splendid
+Robot: what ?
+
+2022-05-29 11:37:39
+User: Bravo
+Robot: i m sorry .
+
+2022-05-29 11:37:49
+User: Recommend some books
+Robot: allo .
+
+2022-05-29 11:37:59
+User: Recommend songs
+Robot: what ?
+
+2022-05-29 11:38:09
+User: What's your favorite song
+Robot: My name is Alice
+
+2022-05-29 11:38:16
+User: Do you like ustc
+Robot: I am a uster!
+
+2022-05-29 11:38:44
+User: What's your favorite movie
+Robot: Forrest Gump
+
+2022-05-29 11:38:47
+User: Good
+Robot: haha
+
+2022-05-29 11:38:52
+User: I'm sad
+Robot: Everything will be OK
+
+2022-05-29 11:38:58
+User: You are right
+Robot: i m sorry .
+
+2022-05-29 11:39:13
+User: 1! 5!
+Robot: what ?
+
+2022-05-29 11:39:24
+User: so what
+Robot: it s not a long time .
+
+2022-05-29 11:39:31
+User: USTC
+Robot: I am a uster!
+
+2022-05-29 11:39:40
+User: I'm sad
+Robot: What's the matter?
+
+2022-05-29 11:39:50
+User: what's the weather like 
+Robot: Image
+
+2022-05-29 11:40:34
+User: Time
+2022-05-29 11:44:03
+User: Time
+2022-05-29 11:46:22
+User: Time
+Robot: Image
+
+2022-05-29 11:48:41
+User: Time
+Robot: Image
+
+2022-05-29 11:48:58
+User: Weather
+Robot: Image
+
+2022-05-29 11:49:38
+User: Weather
+Robot: Image
+
+2022-05-29 11:51:40
+User: Time
+Robot: Image
+
+2022-05-29 11:51:59
+User: Weather
+Robot: Image
+
+2022-05-29 11:53:53
+User: Weather
+Robot: Image
+
+2022-05-29 11:55:43
+User: Time
+Robot: Image
+
+2022-05-29 11:55:54
+User: Weather
+Robot: Image
+
+2022-05-29 11:56:08
+User: Hello
+Robot: Hi there, how can I help?
+
+2022-05-29 11:56:24
+User: fuck
+Robot: what ?
+
+2022-05-29 12:10:13
+User:  You're gong.
+Robot: At your service.
+
+2022-05-29 12:11:41
+User: 
+Robot: Opening for you
+
+2022-05-29 12:12:36
+User: jjj
+Robot: At your service.
+
+2022-05-29 12:13:33
+User: 
+Robot: Opening for you
+
+2022-05-29 12:14:37
+User:  Who?
+Robot: the man .
+
+2022-05-29 12:28:57
+User: Time
+Robot: Image
+
+2022-05-29 12:29:36
+User: Weather
+Robot: Image
+
+2022-05-29 12:30:03
+User: 
+Robot: i m not .
+
+2022-05-29 12:30:18
+User: hhhh
+Robot: At your service.
+
+2022-05-29 12:38:28
+User: Hello
+Robot: Hello, thanks for visiting
+
+2022-05-29 12:38:51
+User: Fuck
+Robot: what ?
+
+2022-05-29 12:39:07
+User: Where are you from
+Robot: LiTang
+
+2022-05-29 12:39:22
+User: Time
+Robot: Image
+
+2022-05-29 12:39:37
+User: Wheather
+Robot: At your service.
+
+2022-05-29 12:39:44
+User: Weather
+Robot: Image
+
+2022-05-29 12:40:03
+User:  How are you?
+Robot: Hi there, what can I do for you?
+
+2022-05-29 12:44:51
+User: Time
+Robot: Image
+
+2022-05-29 12:45:00
+User: Weather
+Robot: Image
+
+2022-05-29 12:48:33
+User: Hello
+Robot: Hi there, how can I help?
+
+2022-05-29 12:48:37
+User: Yep
+Robot: i m sorry .
+
+2022-05-29 12:48:44
+User: Time
+Robot: Image
+
+2022-05-29 12:48:53
+User: Weather
+Robot: Image
+
+2022-05-29 18:19:36
+User: hello
+Robot: Hi there, what can I do for you?
+
+2022-05-29 18:19:50
+User: open qq
+Robot: Opening for you
+
+2022-05-29 18:20:11
+User: tell me a joke
+Robot: What did the buffalo say when his son 
+ left for college? Bison.
+
+2022-05-29 18:20:24
+User: hahaha
+Robot: i m sorry .
+
+2022-05-29 18:23:14
+User: where are you from?
+Robot: LTC!
+
+2022-05-29 18:23:23
+User: 
+Robot: i m not .
+
+2022-05-29 18:23:38
+User: are you sure?
+Robot: yes .
+
+2022-05-29 18:24:43
+User: goodbye
+Robot: Bye! Come back again soon.
+
+2022-05-29 18:24:50
+User: ok
+Robot: i m sorry .
+
+2022-05-29 18:24:55
+User: why
+Robot: I am a uster!
+
+2022-05-29 18:25:04
+User: why?
+Robot: I am a uster!
+
+2022-05-29 18:25:28
+User: i know.
+Robot: I am hungry,too
+
+2022-05-29 18:26:30
+User: open vscode
+Robot: At your service.
+
+2022-05-29 18:26:38
+User: open code
+Robot: i ll see you later .
+
+2022-05-29 18:27:42
+User: open qq
+
+Robot: Opening for you
+
+2022-05-29 18:42:46
+User: Hello
+Robot: Nice to meet you
+
+2022-05-29 18:43:10
+User:  Where are you from?
+Robot: LTC!
+
+2022-05-29 18:46:36
+User:  Naughty.
+Robot: you re not joining that ?
+
+2022-05-29 18:47:07
+User: What time is it now
+Robot: Image
+
+2022-05-29 18:47:34
+User: What's the weather like
+Robot: Image
+
+2022-05-29 18:48:16
+User: Who is the American president
+Robot: I am a uster!
+
+2022-05-29 18:48:41
+User: Where are you born
+Robot: LiTang
+
+2022-05-29 18:49:01
+User: How old are you
+Robot: It is a secret!
+
+2022-05-29 18:49:09
+User: How old are you
+Robot: Well, I am three years old
+
+2022-05-29 18:49:44
+User: 1+2=?
+Robot: i m not .
+
+2022-05-29 18:49:57
+User: one plus one
+Robot: one one .
+
+2022-05-29 18:50:33
+User: What's your major
+Robot: i m not gonna see you .
+
+2022-05-29 18:50:46
+User: sdjklhfaksjdfhsd
+Robot: At your service.
+
+2022-05-29 18:52:37
+User: Open vmware
+Robot: Opening for you
+
+2022-05-29 18:52:52
+User: Open Typora
+Robot: Opening for you
+

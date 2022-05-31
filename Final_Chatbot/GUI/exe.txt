@@ -1,0 +1,11 @@
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+C:\Program Files\Typora\Typora.exe
+C:\Program Files (x86)\Tencent\QQ\Bin\QQScLauncher.exe
+D:\Microsoft VS Code\Code.exe
+D:\VMware\vmware.exe
+C:\Program Files\JetBrains\PyCharm Community Edition 2021.3\bin\pycharm64.exe
+C:\Program Files (x86)\Tencent\WeChat\WeChat.exe
+C:\Program Files (x86)\Tencent\QQMusic\QQMusic.exe
+D:\CloudMusic\cloudmusic.exe
+D:\steam\steam.exe
+C:\Users\86138\AppData\Local\youdao\dict\Application\YoudaoDict.exe

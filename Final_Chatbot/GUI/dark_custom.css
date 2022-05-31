@@ -1,0 +1,42 @@
+QPushButton {{
+  font: normal normal 20px "Lucida Console";
+  border-radius: 20px;
+  border-color: pink;
+}}
+
+QFrame{{
+    background-image: url('');
+    border-color: pink;
+}}
+
+QMenuBar{{
+    color: {{primaryColor}};
+    font: normal normal 20px "Lucida Console";
+}}
+
+QMenu{{
+    font: normal normal 15px "Lucida Console";
+}}
+
+QLabel{{
+    background: black;
+    color: pink;
+    font: normal normal 20px "Lucida Console";
+    border-radius: 10px;
+}}
+
+QTextBrowser{{
+    font: normal normal 20px "Lucida Console";
+}}
+
+QTextEdit{{
+    font: normal normal 20px "Lucida Console";
+}}
+
+QLineEdit{{
+    font: normal normal 20px "Lucida Console";
+}}
+
+.big_button {{
+  height: 64px;
+}}
